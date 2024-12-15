@@ -1,5 +1,4 @@
 <h1 align="center">Selamın Aleyküm I'm Yusuf Eren Söyler</h1>
-- 🔭 I’m currently working on **an android application**
 
 - 🌱 I’m currently learning **Rust language**
 
