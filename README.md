@@ -17,3 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusuo46&show_icons=true&locale=en" alt="yusuo46" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusuo46&" alt="yusuo46" /></p>
+
+<p><figure><embed src="https://wakatime.com/share/@c20f591a-3235-4a54-adbc-9b6a3b1ae4ef/df1e63cf-1899-4f0a-ac94-df7e24c4c9f6.svg"></embed></figure></p>
